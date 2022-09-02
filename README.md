@@ -1,1 +1,1 @@
-![Banner Mrearsbig](./Cover.svg)
+![Banner Mrearsbig](./cover.svg)
