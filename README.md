@@ -3,8 +3,9 @@
 <h2 align="center">🚀 About</h2>
 
 <p align="center">
-  Building reliable and high-performance software where solid engineering meets thoughtful design.<br>
-  Transforming complex problems into elegant solutions with clean architectures and scalable systems.
+  Software Engineer focused on building fast, reliable software.<br>
+  I care about clean architecture, meaningful performance, and open source.<br>
+  Currently diving deep into systems programming and the Rust ecosystem, without leaving my Java roots behind.
 </p>
 
 <div align="center">
