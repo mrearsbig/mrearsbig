@@ -2,8 +2,6 @@
 
 <br>
 
-<h2 align="center">About</h2>
-
 <p align="center">
   <b>Software Engineer</b> focused on building fast, reliable software.<br>
   I care about <b>clean architecture</b>, <b>meaningful performance</b>, and <b>open source</b>.<br>
