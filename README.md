@@ -11,5 +11,9 @@
 
 <div align="center">
   <br>
-  <img src="./assets/stack.svg" alt="Tech Stack" height="60" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+    <img alt="Tech Stack" src="./assets/stack-light.svg" height="60" />
+  </picture>
 </div>
