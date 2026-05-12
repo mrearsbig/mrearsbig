@@ -1,6 +1,8 @@
 ![Banner](./assets/cover.svg)
 
-<br><br>
+<br>
+
+<h2 align="center">🚀 About</h2>
 
 <p align="center">
   <b>Software Engineer</b> focused on building fast, reliable software.<br>
