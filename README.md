@@ -1,6 +1,6 @@
 ![Banner](./assets/cover.svg)
 
-<h2 align="center">🚀 About</h2>
+<br>
 
 <p align="center">
   <b>Software Engineer</b> focused on building fast, reliable software.<br>
@@ -9,8 +9,9 @@
   without leaving my <b>Java</b> roots behind.
 </p>
 
+<br>
+
 <div align="center">
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
